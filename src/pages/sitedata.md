@@ -16,7 +16,7 @@ socialLinks:
   facebook:
     url: https://www.facebook.com/profile.php?id=100077334320137
     label: Visit
-    show: true
+    show: false
   linkedin:
     url: https://linkedin.com/in/denise-hammel-a72860336
     label: Visit
