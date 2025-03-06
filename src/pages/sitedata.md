@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Denise Hammel
+jobTitle: Health Care Liaison, Director, and Nurse
+location: Poughkeepsie, NY
 profileImage:
   src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  alt: Denise Hammel
+siteUrl: https://www.denisehammel.com/
 socialLinks:
   twitter:
-    url: https://www.x.com
+    url: https://x.com/@DeniseHamm1852
     label: Visit
     show: true
   facebook:
-    url: https://www.facebook.com
+    url: https://www.facebook.com/profile.php?id=100077334320137
     label: Visit
     show: true
   linkedin:
-    url: https://www.linkedin.com
+    url: https://linkedin.com/in/denise-hammel-a72860336
     label: Visit
     show: true
   pinterest:
