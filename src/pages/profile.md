@@ -1,13 +1,13 @@
 ---
 templateKey: profile-page
 pageSlug: /profile
-pageTitle: Denise Hammel
+pageTitle: About Denise Hammel
 metaDescription: "Earning her bachelor’s degree in nursing at Chamberlain
   University in Chicago, Ms. Hammel gained early experience as a licensed
   practical nurse. "
 published: true
 schemaType: ProfilePage
-header: Client's Name
+header: Denise Hammel
 featuredImage:
   src: /img/doctorhero1.png
   alt: Hero Image
